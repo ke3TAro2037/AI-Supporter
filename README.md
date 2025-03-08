@@ -1,4 +1,4 @@
-# AI-Supporter Bot
+# AIサポーター
 
 このリポジトリでは、AIによるチケット対応を行うDiscord Botのコードを提供しています。
 
